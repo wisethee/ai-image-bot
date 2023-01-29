@@ -128,3 +128,6 @@ dist
 
 # System
 .DS_Store
+
+# env
+config.json
