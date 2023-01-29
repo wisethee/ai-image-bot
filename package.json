@@ -1,0 +1,25 @@
+{
+  "name": "ai-image-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisethee/ai-image-bot.git"
+  },
+  "author": "Marius P.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisethee/ai-image-bot/issues"
+  },
+  "homepage": "https://github.com/wisethee/ai-image-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
