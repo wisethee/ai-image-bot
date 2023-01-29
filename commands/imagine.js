@@ -5,7 +5,7 @@ const {
   ButtonStyle,
   ActionRowBuilder,
 } = require("discord.js");
-const { generateImage } = require("../src/generateImage");
+const { generateImage } = require("../src/generate-image");
 
 module.exports = {
   data: new SlashCommandBuilder()
